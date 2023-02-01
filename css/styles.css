@@ -1,5 +1,12 @@
 body {
     text-align: center;
     font-family: Arial;
-    color: blueviolet;
+    color: rgb(5, 4, 5);
+}
+#container{
+    width: 70%;
+    padding: 1rem;
+    text-align: left;
+    border: 1px solid;
+    margin: 0 auto;
 }
